@@ -1,11 +1,6 @@
 # API-And-Different-RestClint-Testng
 
 
-
-1. API 
-2. different RestClint 
-3. different Json Parsing mothed  Testing
-
 ---
 
 # API
