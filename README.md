@@ -16,15 +16,15 @@ different Json Parsing mothed  Testing
 # JSON Parsing Method 
 --------------------------JSON----------------------------
 
-UnityEngine.JsonUtility.FromJson
-JsonConvert.DeserializeObject
+1. UnityEngine.JsonUtility.FromJson
+2. JsonConvert.DeserializeObject
 
 # RestClient
 ------------------ restClint --------------
 
-UnityWebRequest (using UnityEngine.Networking)
-RestSharp.RestClient (.NET)
-Proyecto26.RestClient ( RestClint Packeag in assest store)
+1. UnityWebRequest (using UnityEngine.Networking)
+2. RestSharp.RestClient (.NET)
+3. Proyecto26.RestClient ( RestClint Packeag in assest store)
 
 
 
