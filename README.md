@@ -1,13 +1,13 @@
 # API-And-Different-RestClint-Testng
 
-API 
-different RestClint 
-different Json Parsing mothed  Testing
+. API 
+. different RestClint 
+. different Json Parsing mothed  Testing
 
 ---
 
 # API
---------------------- API -------------------------
+
 
 1. Weather API 
 2. Country API
@@ -17,7 +17,7 @@ different Json Parsing mothed  Testing
 ---
 
 # JSON Parsing Method 
---------------------------JSON----------------------------
+
 
 1. UnityEngine.JsonUtility.FromJson
 2. JsonConvert.DeserializeObject
@@ -25,7 +25,7 @@ different Json Parsing mothed  Testing
 ---
 
 # RestClient
------------------- restClint --------------
+
 
 1. UnityWebRequest (using UnityEngine.Networking)
 2. RestSharp.RestClient (.NET)
