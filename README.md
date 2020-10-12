@@ -4,6 +4,8 @@ API
 different RestClint 
 different Json Parsing mothed  Testing
 
+---
+
 # API
 --------------------- API -------------------------
 
@@ -12,6 +14,7 @@ different Json Parsing mothed  Testing
 3. MObile Varifiaction API
 4. News Feed API
 
+---
 
 # JSON Parsing Method 
 --------------------------JSON----------------------------
@@ -19,12 +22,16 @@ different Json Parsing mothed  Testing
 1. UnityEngine.JsonUtility.FromJson
 2. JsonConvert.DeserializeObject
 
+---
+
 # RestClient
 ------------------ restClint --------------
 
 1. UnityWebRequest (using UnityEngine.Networking)
 2. RestSharp.RestClient (.NET)
 3. Proyecto26.RestClient ( RestClint Packeag in assest store)
+
+---
 
 
 
