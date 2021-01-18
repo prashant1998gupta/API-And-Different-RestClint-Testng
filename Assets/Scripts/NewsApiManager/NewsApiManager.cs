@@ -15,6 +15,7 @@ public class NewsApiManager : MonoBehaviour
     [SerializeField]
     private GetNewsinfo m_getNewinfo;
     public static Action<GetNewsinfo> OnNewsFeedDataGet;
+
     /*[SerializeField]
     NewsFeedView newsFeedView;*/
 

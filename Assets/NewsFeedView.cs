@@ -18,8 +18,8 @@ public class NewsFeedView : MonoBehaviour
     {
         foreach (var item in data.articles)
         {
-            Debug.Log(item.title);
-            Debug.Log(item.description);
+            //Debug.Log(item.title);
+            //Debug.Log(item.description);
             //create feed for each artical
             CreateNewsFeed(item.title, item.description);
         }
@@ -32,6 +32,7 @@ public class NewsFeedView : MonoBehaviour
         newsFeedTemp.HeadLineText = title;
         newsFeedTemp.DescriptionText = description;
     }
+
     void OnDisable()
     {
         NewsApiManager.OnNewsFeedDataGet -= GetNewFeed;

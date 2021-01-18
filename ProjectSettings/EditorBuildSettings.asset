@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scrol Rect testing.unity
+    guid: 9722d0c330ae35445b0f71ab1183d37a
+  - enabled: 0
+    path: Assets/Scenes/NewsAPI.unity
+    guid: 22ab354b5eb2e2146910bc8d74078e7e
   m_configObjects: {}

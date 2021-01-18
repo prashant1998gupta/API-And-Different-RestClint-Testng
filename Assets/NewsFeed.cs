@@ -15,7 +15,7 @@ public class NewsFeed : MonoBehaviour
     {
         set
         {
-            headLineText = $"<b>{value}</b>";
+            headLineText = $"<b>{"Tital -:"}</b> <b>{value}</b>";
         }
     }
 
@@ -27,5 +27,6 @@ public class NewsFeed : MonoBehaviour
             Text.text =headLineText + "\n \n" + descritonText;
         }
     }
+
 
 }
